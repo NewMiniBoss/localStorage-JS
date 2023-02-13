@@ -1,0 +1,22 @@
+@media (max-width: 900px) {
+    body {
+        background-color: #000;
+    }
+
+    header {
+        text-align: center;
+        color: #fff;
+    }
+
+    .conteudo {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .principal {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        min-width: 350px;
+    }
+}

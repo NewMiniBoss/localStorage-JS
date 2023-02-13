@@ -1,11 +1,11 @@
-html {
-    background: radial-gradient(farthest-corner at right top,#21A09D, #06182D);
-    height: 100%;
+body {
+    background-color: #000000;
     font-family: 'Roboto', cursive;
+    box-sizing: border-box !important;
 }
 
 .conteudo {
-    padding: 10vh 3em 0;
+    /* padding: 10vh 3em 0; */
     display: flex;
     align-items: flex-start;
     gap: 2em;
