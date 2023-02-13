@@ -7,7 +7,7 @@
 - Entendendo o comportamento do LocalStorage
 
 ## Preview 🎥
-
+![image](https://user-images.githubusercontent.com/80296330/218570212-38f8b559-5ebb-4b5f-ac4a-6cc29814e09a.png)
 
 ## Deploy
 
