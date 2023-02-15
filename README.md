@@ -10,7 +10,7 @@
 ![mochila](https://user-images.githubusercontent.com/80296330/218570369-cd12c976-5de7-479e-8396-5088e83bfc54.png)
 
 ## Deploy
-
+https://newminiboss.github.io/localStorage-JS/
 
 ## Acessar o projeto e rodar 📁
 
@@ -23,7 +23,6 @@ https://github.com/NewMiniBoss/localStorage-JS/archive/refs/heads/main.zip
 ## Tecnologias usadas no projeto 🚀
 - HTML
 - CSS
-- Sass
 - JavaScript
 
 ## > Status do projeto: concluído ✔
